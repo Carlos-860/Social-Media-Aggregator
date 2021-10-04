@@ -1,4 +1,4 @@
-![GitHub contributors](https://img.shields.io/github/contributors/Carlos-860/Social-Media-Aggregator)
+![GitHub forks](https://img.shields.io/github/forks/Carlos-860/Social-Media-Aggregator?style=social)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Carlos-860/Social-Media-Aggregator)
 ![GitHub](https://img.shields.io/github/license/Carlos-860/Social-Media-Aggregator)
 ![GitHub issues](https://img.shields.io/github/issues/Carlos-860/Social-Media-Aggregator)
@@ -7,7 +7,7 @@
     <img alt="Ultraviollet Project Setup Icon" src="https://img.icons8.com/ultraviolet/40/000000/project-setup.png"/>
     <h3>Social Media Aggregator</h3>
     <p>An aggregator that brings all social media platform data in one place for conveniance.</p>
-    <a href="">View Demo</a>&#183;<a href="">Report Bug</a>&#183;<a href="">Request Feature</a>
+    <a href="">View Demo</a> &#183; <a href="">Report Bug</a> &#183; <a href="">Request Feature</a>
 </div>
 
 ## About the project
