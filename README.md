@@ -7,7 +7,7 @@
     <img alt="Ultraviollet Project Setup Icon" src="https://img.icons8.com/ultraviolet/40/000000/project-setup.png"/>
     <h3>Social Media Aggregator</h3>
     <p>An aggregator that brings all social media platform data in one place for conveniance.</p>
-    <a href="">View Demo</a> &#183; <a href="">Report Bug</a> &#183; <a href="">Request Feature</a>
+    <a href="#">View Demo</a> &#183; <a href="#">Report Bug</a> &#183; <a href="#">Request Feature</a>
 </div>
 
 ## About the project
@@ -31,7 +31,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top">:arrow_up: back to top</a></p>
 
 <!-- LICENSE -->
 
@@ -39,4 +39,4 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top">:arrow_up: back to top</a></p>
