@@ -1,0 +1,19 @@
+{
+  "name": "social-media-aggregator",
+  "version": "1.0.0",
+  "description": "Social Media Aggregator that brings a users social media platform statistics in one place",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/css/tailwind.css -o ./dist/tailwind.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlos-860/Social-Media-Aggregator.git"
+  },
+  "author": "Carlos & Lyle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Carlos-860/Social-Media-Aggregator/issues"
+  },
+  "homepage": "https://github.com/Carlos-860/Social-Media-Aggregator#readme"
+}

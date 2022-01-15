@@ -4,7 +4,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/Carlos-860/Social-Media-Aggregator)
 
 <div align="center">
-    <img alt="Ultraviollet Project Setup Icon" src="https://img.icons8.com/ultraviolet/40/000000/project-setup.png"/>
+    <img alt="Ultraviolet Project Setup Icon" src="https://img.icons8.com/ultraviolet/40/000000/project-setup.png"/>
     <h3>Social Media Aggregator</h3>
     <p>An aggregator that brings all social media platform data in one place for conveniance.</p>
     <a href="#">View Demo</a> &#183; <a href="#">Report Bug</a> &#183; <a href="#">Request Feature</a>
